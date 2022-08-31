@@ -6,7 +6,7 @@ h1, h2, p {
         text-align: center;
     }
 
-div {
+.teaMenu {
     width: 80%;
     /* background-color: rgb(288, 202, 168); */
     background-color: orange;
