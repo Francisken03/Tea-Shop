@@ -7,8 +7,9 @@ h1, h2, p {
     }
 
 div {
-    width: 300px;
-    background-color: rgb(288, 202, 168);
+    width: 80%;
+    /* background-color: rgb(288, 202, 168); */
+    background-color: orange;
 }
 
         
