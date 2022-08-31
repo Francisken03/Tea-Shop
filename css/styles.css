@@ -1,5 +1,8 @@
 body {
     background-color: rgb(288, 202, 168);
+    background-image: url('../images/image1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 h1, h2, p {
