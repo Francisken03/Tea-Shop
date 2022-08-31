@@ -10,6 +10,8 @@ div {
     width: 80%;
     /* background-color: rgb(288, 202, 168); */
     background-color: orange;
+    margin-left: auto;
+    margin-right: auto;
 }
 
         
