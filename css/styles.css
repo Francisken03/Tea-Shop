@@ -28,7 +28,7 @@ h1, h2, p {
     height: 200px; */
 }
 
-.teaFlavor {
+.teaFlavor, .teaCollection {
     background-color: red;
     text-align: left;
     width: 75%;
@@ -36,7 +36,7 @@ h1, h2, p {
 
 }
 
-.teaPrice {
+.teaPrice, .collectionPrice {
     background-color: blue;
     text-align: right;
     width: 25%;
