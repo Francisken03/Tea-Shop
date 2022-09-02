@@ -21,11 +21,16 @@ h1, h2, p {
     
 }
 
-.teaItem p {
+.teaItem p, .collectionItem p {
     /* background-color: white; */
     display: inline-block;
     /* width: 200px;
     height: 200px; */
+}
+
+p {
+    display: inline-block;
+    background-color: green;
 }
 
 .teaFlavor, .teaCollection {
