@@ -1,0 +1,12 @@
+47: add font weight to p elements
+48: add class established and style italic
+49: change h1 size to 40px and h2 35px
+50: add footer with 2 p elements
+51: add hr element with box-shadow property
+52: add bottom hr with botLine class name and add class name to 1st hr with topLine class name
+53: padding 20px on body element
+54: footer font-size 14px
+55: add CSS comments to define sections
+56: add url in the footer section
+57: change a element color to black
+
